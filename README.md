@@ -1,2 +1,2 @@
 # WillAPI
-just a hobby.
+fake api made to bait and piss people off.
